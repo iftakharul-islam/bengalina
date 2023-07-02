@@ -1,9 +1,20 @@
 {
     "name": "ifat/bengalina",
+    "type": "library",
     "description": "A package for nerd php programmer",
+    "keywords": ["test","practice"],
+    "homepage": "https://github.com/iftakharul-islam/bengalina",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Iftakharul Islam",
+            "email": "iftakharulislam881@gmail.com",
+            "homepage": "http://ifatwp.wordpress.com",
+            "role": "Developer"
+        }
+    ],
     "require": {
         "php": ">=7.4"
     },
-    "license": "MIT",
-     "minimum-stability": "dev"
+    "minimum-stability": "dev"
 }
