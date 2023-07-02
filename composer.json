@@ -1,0 +1,8 @@
+{
+    "name": "ifat/bengalina",
+    "description": "A package for nerd php programmer",
+    "require": {
+        "php": ">=7.4"
+    },
+    "license": "MIT"
+}
